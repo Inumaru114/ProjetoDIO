@@ -1,1 +1,1 @@
-Fiz um wireframe medianamente detalhado sobre um site de venda de produtos de maquiagem. Há uma pasta com a captura da tela de home e um breve detalhamento das decisões e omponentes utilizados.
+Fiz um wireframe medianamente detalhado sobre um site de venda de produtos de maquiagem. Há uma pasta com a captura da tela de home e um breve detalhamento das decisões e omponentes utilizados. Todos os itens que devem ser clicáveis estão em azul ou contornados em azul. O design system da marca não foi aplicado totalmente.
